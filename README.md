@@ -2,7 +2,7 @@ Processing-Visualizer
 =====================
 // Credit to kristen.ees library, examples and Processing.org
 // This app was developed by Sandra Lombardi - sandra.f.lombardi@gmail.com
-// Dare 5/3/2012
+// Date 5/3/2012
 
 Processing - Visualizer
 
